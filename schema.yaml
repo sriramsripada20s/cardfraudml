@@ -7,7 +7,5 @@ COLUMNS:
   used_pin_number                  :   float64
   online_order                     :   float64
 
-
-
 TARGET_COLUMN:
   fraud : float64
