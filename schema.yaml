@@ -1,0 +1,13 @@
+COLUMNS:
+  distance_from_home               :   float64
+  distance_from_last_transaction   :   float64
+  ratio_to_median_purchase_price   :   float64
+  repeat_retailer                  :   float64
+  used_chip                        :   float64
+  used_pin_number                  :   float64
+  online_order                     :   float64
+
+
+
+TARGET_COLUMN:
+  fraud : float64
