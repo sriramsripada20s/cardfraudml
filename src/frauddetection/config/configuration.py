@@ -11,7 +11,7 @@ class ConfigurationManager:
         params_filepath = PARAMS_FILE_PATH,
         schema_filepath = SCHEMA_FILE_PATH):
 
-        # Read configuration files
+        # Read configuration file
         self.config = read_yaml(config_filepath)
         self.params = read_yaml(params_filepath)
         self.schema = read_yaml(schema_filepath)
