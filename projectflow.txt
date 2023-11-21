@@ -1,0 +1,14 @@
+#Data Ingestion
+#1.config.yml
+#2.config entity ->
+#3.variables defined under constant file
+#4. Configuration
+#5. Utils
+#6. Data Ingestion (comp)
+#7. Pipeline
+#8. Test first pipeline --> data Ingestion
+
+
+#Data Validation
+#Data Transformation
+#Model Training
