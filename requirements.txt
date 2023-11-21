@@ -13,3 +13,5 @@ types-PyYAML
 Flask
 Flask-Cors
 pathlib
+cloudpickle==2.2.1
+scipy
