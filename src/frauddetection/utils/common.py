@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from fraud_detection import logger
+from frauddetection import logger
 import json
 import joblib
 from ensure import ensure_annotations
