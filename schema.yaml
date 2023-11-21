@@ -8,4 +8,4 @@ COLUMNS:
   online_order                     :   float64
 
 TARGET_COLUMN:
-  fraud : float64
+  name : fraud
