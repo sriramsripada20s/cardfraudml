@@ -19,7 +19,6 @@ class DataTransformationTrainingPipeline:
                 config = ConfigurationManager()
                 data_transformation_config = config.get_data_transformation_config()
                 data_transformation = DataTransformation(config=data_transformation_config)
-                data_transformation.label_encoding_to_all_feature()
                 data_transformation.train_test_spliting()
 
             else:

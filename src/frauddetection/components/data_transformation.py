@@ -1,6 +1,6 @@
 import os
 from frauddetection import logger
-from sklearn.preprocessing import LabelEncoder
+#from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 import pandas as pd
 from frauddetection.entity.config_entity import DataTransformationConfig
