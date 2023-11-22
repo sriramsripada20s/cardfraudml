@@ -1,4 +1,4 @@
-from frauddetection import logger
+from frauddetection  import logger
 from frauddetection.pipeline.stage1_data_ingestion import DataIngestionTrainingPipeline
 from frauddetection.pipeline.stage2_data_validation import DataValidationTrainingPipeline
 from frauddetection.pipeline.stage3_data_transformation import DataTransformationTrainingPipeline
